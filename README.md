@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Randy  
 
-### 🚀 Full Stack Developer from Santiago, Dominican Republic
+## 🚀 Full Stack Developer from Santiago, Dominican Republic
 
 </div>
 
@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Currently Working On:
-**`securepass_app`**
+**`dfu-clinic`**
 
 ### 📫 Contact Me:
 📧 [alexgermosen@gmail.com](mailto:alexgermosen@gmail.com)
