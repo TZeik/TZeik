@@ -13,7 +13,7 @@
 **`dfu-clinic`**
 
 ### 📫 Contact Me:
-📧 [alexgermosen@gmail.com](mailto:alexgermosen@gmail.com)
+📧 [business@randygermosen.com](mailto:business@randygermosen.com)
 
 ---
 
