@@ -9,9 +9,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TZeik&color=blue)
 ---
 
-### 🔭 Currently Working On:
-**`dfu-clinic`**
-
 ### 📫 Contact Me:
 📧 [business@randygermosen.com](mailto:business@randygermosen.com)
 
